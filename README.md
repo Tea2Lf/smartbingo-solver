@@ -1,8 +1,6 @@
 # smartbingo-solver
 
-used for: 26F-Studio/smartbingo
-
-automatically solve smart bingo!
+used for: [](https://github.com/26F-Studio/smartbingo)
 
 tips in the .exe.
 
