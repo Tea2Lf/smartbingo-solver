@@ -266,7 +266,7 @@ int main(){
 		bingogo=(
 			0*cnt[0]+1*cnt[1]+2*cnt[2]+(-1)*cnt[3]+5*cnt[4]+
 			5*cnt[5]+3*cnt[6]+3*cnt[7]+1*cnt[8]+1*cnt[9]
-		)*(cnt_block/cnt_color)*(min_ans-4)*(log10(MAX/solutions.size())+1);
+		)*(cnt_block/cnt_color+1)*(min_ans-4)*(log10(MAX/solutions.size())+1);
 	}
 	
 	cout<<"Your bingo gets "<<bingogo<<" bingogo!"<<endl<<endl;
